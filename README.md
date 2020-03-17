@@ -1,1 +1,3 @@
-# HoshikawaBot.github.io
+# HoshikawaBot
+
+made by Cheesedog & DPS0340
