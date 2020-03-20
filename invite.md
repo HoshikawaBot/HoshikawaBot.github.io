@@ -1,0 +1,3 @@
+# Invitation
+
+HoshikawaBot Invite Manual
